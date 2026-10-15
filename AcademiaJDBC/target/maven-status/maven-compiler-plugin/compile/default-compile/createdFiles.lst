@@ -1,0 +1,17 @@
+academiaidioma\modelo\Alumno.class
+academiaidiomaDAO\AlumnoDAO.class
+academiaidioma\modelo\ProgramaCurso.class
+academiaidiomaDAO\ProfesorDAO.class
+academiaidiomaDAO\ProgramaCursoDAO.class
+academiaidioma\conexion\Conexion.class
+academiaidiomaDAO\ColegioDAO.class
+academiaidioma\modelo\Matricula.class
+academiaidiomaDAO\MatriculaDAO.class
+academia_idiomas\Main$Tabla.class
+academiaidiomaDAO\CursoDAO.class
+academiaidiomaDAO\ConsultasDAO.class
+academiaidioma\modelo\Curso.class
+academiaidioma\modelo\Profesor.class
+academia_idiomas\Main.class
+academiaidioma\modelo\Colegio.class
+com\mycompany\academiajdbc\AcademiaJDBC.class
